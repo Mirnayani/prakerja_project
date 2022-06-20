@@ -1,3 +1,3 @@
 # prakerja_project
 
-final assignment from sekolah pintar
+Final assignment to create landing page sekolah pintar using HTML and CSS
